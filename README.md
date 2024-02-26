@@ -1,0 +1,2 @@
+# ghosts
+ghost tea testnet
